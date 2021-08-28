@@ -15,6 +15,9 @@ body{
 #switch{
     font-size: 3rem;
 }
+#switch:hover{
+    cursor: pointer;
+}
 .lightButton{
     background-color: white;
   color: black;
