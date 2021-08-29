@@ -1,0 +1,18 @@
+.content{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    font-size: 5rem;
+}
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
+div span strong{
+    color: brown;
+}
